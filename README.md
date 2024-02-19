@@ -1,9 +1,11 @@
 # Whimsiez-Of-Horror
 
+![whimgy](/readmeIMG.png)
+
 ## The Unofficial World of Horror Character mod for twitch.tv/whimsiez
 
 Installation Guide:
 
-`C:\Users\yourusernamehere\AppData\Local\wohgame\character `
+`C:\Users\yourusernamehere\AppData\Local\wohgame\ `
 
-Insert files into this folder. If the folders do not exist, create them manually.
+Insert the character folder into this folder. If the folder does not exist, create it manually.
