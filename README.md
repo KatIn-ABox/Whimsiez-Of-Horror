@@ -1,6 +1,6 @@
 # Whimsiez-Of-Horror
 
-![whimgy](/readmeIMG.png)
+![whimgy](/readmeIMG.PNG)
 
 ## The Unofficial World of Horror Character mod for twitch.tv/whimsiez
 
