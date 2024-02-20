@@ -2,7 +2,7 @@
 
 ![whimgy](/readmeIMG.PNG)
 
-![STAIRS](/custom/whimsiez/forest_stairs.PNG)
+![STAIRS](/forest_stairs.PNG)
 
 ## The Unofficial World of Horror Character mod for twitch.tv/whimsiez
 
